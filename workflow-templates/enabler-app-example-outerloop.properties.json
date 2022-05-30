@@ -1,0 +1,7 @@
+{
+  "name": "Enabler App Example Outerloop",
+  "description": "Enabler App Example Outerloop starter workflow",
+  "iconName": "example-icon",
+  "categories": ["TypeScript", "JavaScript"],
+  "filePatterns": ["devspace\\.ya?ml$"]
+}
